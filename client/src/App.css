@@ -1,0 +1,42 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.mainTitle {
+  padding-bottom: 20px;
+}
+
+form {
+  background: #c9cc9d;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.formInput {
+  width: 25%;
+}
+
+.bikeItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+.bikeItem button {
+  margin-left: 20px;
+}
+
+.rents {
+  padding: 20px;
+}
+
+.card {
+  margin-bottom: 10px;
+  background-color: rgba(255, 226, 243, 0.295);
+}
